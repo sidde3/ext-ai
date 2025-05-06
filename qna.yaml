@@ -1,6 +1,6 @@
 version: 3
 domain: IT Efficiency
-created_by: mairin
+created_by: sidde3
 seed_examples:
   - context: |
       IT efficiency requires standardization. Standardizing your IT environment can help you increase flexibility and efficiency. A standard operating environment (SOE) built around a standardized OS can greatly simplify your IT infrastructure and help you overcome many of the challenges of varied, disparate environments.
