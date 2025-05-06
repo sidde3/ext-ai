@@ -47,3 +47,8 @@ seed_examples:
           What capabilities does Red Hat Enterprise Linux provide for automation?
         answer: |
           Red Hat Enterprise Linux provides capabilities to automate security controls, perform provisioning and configuration, and simplify implementation and scaling.
+document:
+  repo: https://github.com/sidde3/ext-ai.git
+  commit: 983b643787060399e22ad4e11cb8a2f1a7bd0293
+  patterns:
+    - knowledge.md
